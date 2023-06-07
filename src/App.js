@@ -1,9 +1,9 @@
-import './App.css';
+import Ml from "./components/Ml";
 
 function App() {
     return (
-        <div>
-            
+        <div className="w-screen h-screen">
+            <Ml/>
         </div>
     );
 }
